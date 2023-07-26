@@ -25,6 +25,8 @@ As a perso who often eats out I need an easy way to read reviews of restaurants 
 
 # A Places
 
+| Place | Type |
+| ----- | ---- |
 | Name | String |
 | City | String |
 | State | String |
